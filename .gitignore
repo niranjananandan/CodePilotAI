@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# CodePilot AI backup files
+*.bak
+*.bak.*
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
